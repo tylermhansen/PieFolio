@@ -216,3 +216,9 @@ video {
 .input {
     font-weight: 300!important
 }
+
+#logo {
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    font-weight: 300;
+}
