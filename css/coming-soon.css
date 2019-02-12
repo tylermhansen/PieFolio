@@ -12,7 +12,7 @@ body {
     height: 100%;
     min-height: 35rem;
     position: relative;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Merriweather', serif;
     font-weight: 300
 }
 
@@ -22,8 +22,9 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: Pacifico, cursive;
+    font-family: 'Montserrat', sans-serif;
     color: #A0041E;
+    font-weight: 700;
     
 }
 
