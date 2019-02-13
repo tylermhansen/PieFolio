@@ -1,4 +1,4 @@
-# [PieFolio](piefol.io)
+# [PieFolio](http://piefol.io)
 
 *PieFolio* is a a service that I am currently creating. This is the code for the website. This site uses the theme ["Coming Soon" from Start Bootstrap](https://startbootstrap.com/template-overviews/coming-soon/). 
 
