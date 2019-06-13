@@ -16,6 +16,12 @@ body {
     font-weight: 300
 }
 
+.centerBlock {
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+}
+
 h1,
 h2,
 h3,
@@ -23,7 +29,7 @@ h4,
 h5,
 h6 {
     font-family: 'Montserrat', sans-serif;
-    color: #A0041E;
+    color: #403A6E;
     font-weight: 700;
     
 }
@@ -57,7 +63,7 @@ video {
     left: 0;
     height: 100%;
     width: 100%;
-    background-color: #BE1931;
+    background-color: #39578E;
     opacity: .7;
     z-index: 1
 }
