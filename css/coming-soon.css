@@ -34,18 +34,6 @@ h6 {
     
 }
 
-video {
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    min-width: 100%;
-    min-height: 100%;
-    width: auto;
-    height: auto;
-    -webkit-transform: translateX(-50%) translateY(-50%);
-    transform: translateX(-50%) translateY(-50%);
-    z-index: 0
-}
 
 @media (pointer:coarse) and (hover:none) {
     body {
@@ -70,7 +58,7 @@ video {
 
 .masthead {
     position: relative;
-    overflow: hidden;
+    overflow: scroll;
     padding-bottom: 3rem;
     z-index: 2
 }
