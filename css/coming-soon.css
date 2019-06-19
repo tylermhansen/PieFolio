@@ -12,8 +12,10 @@ body {
     height: 100%;
     min-height: 35rem;
     position: relative;
+    overflow: scroll;
     font-family: 'Merriweather', serif;
     font-weight: 300
+    
 }
 
 .centerBlock {
@@ -58,7 +60,6 @@ h6 {
 
 .masthead {
     position: relative;
-    overflow: scroll;
     padding-bottom: 3rem;
     z-index: 2
 }
@@ -79,7 +80,7 @@ h6 {
     min-height: 35rem;
     height: 100%;
     background-color: rgba(255, 255, 255, .8);
-    -webkit-transform: skewY(4deg);
+    -webkit-transform: skewY(5deg);
     transform: skewY(4deg);
     -webkit-transform-origin: bottom right;
     transform-origin: bottom right
